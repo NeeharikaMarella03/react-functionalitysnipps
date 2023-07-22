@@ -4,7 +4,8 @@ import './App.css';
 // import Temperature from './components/temperature/Temperature';
 // import SignupForm from './components/signup/SignupForm';
 // import HandleInputs from './components/handlingInputs/HandleInputs'
-import Quiz from './components/quizApp/Quiz';
+// import Quiz from './components/quizApp/Quiz';
+import ContactList from './components/contactList/ContactList'
 
 function App() {
   return (
@@ -13,7 +14,8 @@ function App() {
       {/* <Temperature/> */}
       {/* <SignupForm/> */}
       {/* <HandleInputs /> */}
-      <Quiz />
+      {/* <Quiz /> */}
+      <ContactList/>
     </div>
   );
 }
