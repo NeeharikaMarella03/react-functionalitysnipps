@@ -1,2 +1,4 @@
+
 # react-functionalitysnipps
-Components of page functionalities
+Components of page with different functionalities 
+
